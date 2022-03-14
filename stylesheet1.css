@@ -1,0 +1,14 @@
+
+@font-face {
+    font-family: Th Sarabun New;
+    src: url(Th Sarabun New.woff2) format('woff2'),
+         url(Th Sarabun New.woff) format('woff'),
+         url(Th Sarabun New.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+h1{
+  color:#33FF66;
+  font-size: 40px; 
+  font-family:Th Sarabun New;
+  }
